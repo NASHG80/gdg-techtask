@@ -21,10 +21,10 @@ This project showcases a clean hero section, dynamic stats, and clear CTAs — d
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/NASHG80/gdg-techtask.git
 
 # Navigate to project directory
-cd project-folder
+cd my-app
 
 # Install dependencies
 npm install
