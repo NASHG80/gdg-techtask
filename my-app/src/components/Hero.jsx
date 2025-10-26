@@ -32,7 +32,7 @@ export default function Hero() {
       </div>
 
       <div className="flex-1">
-        <div className="w-full h-[400px] rounded-2xl bg-gradient-to-br from-blue-50 to-white border shadow-lg p-6 overflow-hidden">
+        <div className="w-full h-[450px] rounded-2xl bg-gradient-to-br from-blue-50 to-white border shadow-lg p-6 overflow-visible">
           {/* Car Image Placeholder */}
           <div className="w-full h-48 bg-gradient-to-r from-blue-100 to-slate-100 rounded-xl flex items-center justify-center mb-6">
             <div className="text-center">
